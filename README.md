@@ -6,8 +6,12 @@ The RADSEL function automates the selection of an optimal radius parameter for e
 
 If you use RADSEL in your research or academic work, please cite the following paper:
 
-Johan Medrano, Abderrahmane Kheddar, Annick Lesne, Sofiane Ramdani; 
-"Radius selection using kernel density estimation for the computation of nonlinear measures." Chaos, 1 August 2021; 31 (8): 083131. [https://doi.org/10.1063/5.0055797](https://doi.org/10.1063/5.0055797).
+    Johan Medrano, Abderrahmane Kheddar, Annick Lesne, Sofiane Ramdani; 
+    "Radius selection using kernel density estimation for the computation of nonlinear measures." 
+    Chaos, 1 August 2021; 31 (8): 083131. 
+    DOI: 10.1063/5.0055797
+
+Direct Link: [https://doi.org/10.1063/5.0055797](https://doi.org/10.1063/5.0055797)
 
 ---
 
