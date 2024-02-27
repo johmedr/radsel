@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite it using the metadata from this file.
+type: software
+title: 'fooof_mat'
+authors:
+- given-names: 'Johan'
+  family-names: 'Medrano'
+  orcid: 'https://orcid.org/0000-0002-7558-2071'
+repository-code: 'https://github.com/fooof-tools/fooof_mat'
+url: 'https://fooof-tools.github.io/'
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+  - given-names: 'Johan'
+    family-names: 'Medrano'
+    orcid: 'https://orcid.org/0000-0002-7558-2071'
+  - given-names: 'Abderrahmane'
+    family-names: 'Kheddar'
+    orcid: 'https://orcid.org/0000-0001-9033-9742'
+  - given-names: 'Annick'
+    family-names: 'Lesne'
+    orcid: 'https://orcid.org/0000-0002-6647-612X'
+  - given-names: 'Sofiane'
+    family-names: 'Ramdani'
+    orcid: 'https://orcid.org/0000-0001-8925-3546'
+  doi: '10.1063/5.0055797'
+  journal: 'Chaos'
+  title: 'Radius selection using kernel density estimation for the computation of nonlinear measures'
+  issue: 8
+  volume: 31
+  year: 2021
