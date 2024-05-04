@@ -88,7 +88,7 @@ end
 try 
     s = STD; 
 catch 
-    s = std(x); 
+    s = std(x, [], "all"); 
 end
 
 % Interquartile range
@@ -96,7 +96,7 @@ end
 try 
     q = IQR; 
 catch 
-    q = iqr(x);
+    q = iqr(x, "all");
 end 
 
 % Calculate the different terms that compose the optimal radius
